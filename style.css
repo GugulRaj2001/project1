@@ -7,7 +7,7 @@ body{
      display:grid;
      justify-content: center;
      align-items: center;
-     background-color: rgb(225, 234, 231);
+     background-color: whitesmoke;
      background-attachment: scroll;
      margin-left: 30px;
      margin-left: 30px;
@@ -78,5 +78,21 @@ h2{
     color: rgb(77, 1, 1);
     text-decoration: underline;
     text-transform: capitalize;
+}
+.c_left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    margin-right:70em;
+    box-shadow: 10px 10px grey;
+}
+.hc_left{
+    margin-right: 47em;
+    color: bisque;
+    margin-bottom: 20px;
+}
+#grade{
+    background-image: linear-gradient(to bottom right, red, yellow);
 }
  
